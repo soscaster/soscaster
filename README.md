@@ -9,4 +9,6 @@
 - Just school project(s) at the moment.
 - All of the other projects has been temporarily suspend.
 
-![SpringRice](https://github-readme-stats.vercel.app/api?username=soscaster&show_icons=true)
+![soscaster's Stats](https://github-readme-stats.vercel.app/api?username=soscaster&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![soscaster's Streak](https://github-readme-streak-stats.herokuapp.com/?user=soscaster&theme=blue-green&hide_border=false)
+![soscaster's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soscaster&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
